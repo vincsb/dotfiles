@@ -1,0 +1,6 @@
+"*":
+  core:
+    themes: [
+      "one-dark-ui"
+      "darcula-syntax"
+    ]

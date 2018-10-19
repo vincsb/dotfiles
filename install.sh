@@ -16,3 +16,6 @@ apm install language-javascript-jsx
 apm install linter
 apm install linter-eslint
 apm install project-manager
+
+# Install atom theme
+apm install darcula-syntax
